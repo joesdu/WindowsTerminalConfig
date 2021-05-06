@@ -20,7 +20,7 @@
   "copyFormatting": false,
   "initialCols": 210,
   "initialRows": 54,
-  "initialPosition": "170,90",
+  "initialPosition": "200,90",
   "tabWidthMode": "compact",
 
   // A profile specifies a command to execute paired with information about how it should look and feel.
